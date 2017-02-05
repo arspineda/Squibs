@@ -1,0 +1,10 @@
+Reading original literature in syntactic theory can be difficult. The original
+literature by now spans more than 60 years. As mentioned in the Introduction, this
+field is very young, progress has been and continues to be rapid. In this time span,
+many discoveries have been made, sometimes making earlier work obsolete, new
+notations are constantly introduced to encode new understanding, making earlier
+notations opaque. At the moving frontiers of knowledge, several hypotheses,
+incompatible with each other, were and are simultaneously entertained. All this
+contributes to making reading the original literature difficult.... As part of
+language, the meaning of words sometimes shifts, and technical vocabulary or
+notation evolves.
